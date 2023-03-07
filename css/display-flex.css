@@ -1,0 +1,12 @@
+
+.caja-padre {
+    display: flex;
+    
+}
+
+.hijo {
+    color: white;
+    width: 100px;
+    border: solid white 2px;
+    background-color: blue;
+}

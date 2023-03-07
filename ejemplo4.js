@@ -1,1 +1,1 @@
-console.log("a mejorar");
+let variable1 = "perro"
